@@ -1,11 +1,7 @@
-{"users": [
-    
-  ],
-  "posts": [
-    { "id": 1, "title": "json-server0915", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+{
+  "cards": [
+    { "id": 1, "title": "第一筆", "categories": ["CSS", "SCSS", "JavaScript"] },
+    { "id": 2, "title": "第二筆", "categories": ["C#", "SCSS"] },
+    { "id": 3, "title": "第三筆", "categories": ["Java", "C"] }
+  ]
 }
